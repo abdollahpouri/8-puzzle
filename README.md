@@ -1,5 +1,5 @@
 # 8-puzzle
-A java implementation of 8-puzzle using many algorithms such as:
+This is a Java implementation for a the popular 8uzzle problem using many search algorithms such as
 DFS (Depth First Search)
 BFS (Breadth First Search)
 Iterative Deepening
